@@ -1,0 +1,14 @@
+<svg width="60" height="61" viewBox="0 0 80 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path class="item-line1" d="M40 52C49.3888 52 57 44.6127 57 35.5C57 26.3873 49.3888 19 40 19C30.6112 19 23 26.3873 23 35.5" stroke="#1E1E1E" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" style="stroke-dasharray: 78.948; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line2" d="M60.5 55.5L55 50" stroke="#1E1E1E" stroke-width="1.5" stroke-linecap="square" stroke-linejoin="round" style="stroke-dasharray: 7.77817; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line3" d="M27.1732 50.8771C27.1732 51.8955 26.7686 52.8723 26.0485 53.5924C25.3283 54.3125 24.3516 54.7171
+													23.3332 54.7171C22.3147 54.7171 21.338 54.3125 20.6179 53.5924C19.8977 52.8723 19.4932 51.8955 19.4932 50.8771C19.4932 49.8587
+													19.8977 48.882 20.6179 48.1618C21.338 47.4417 22.3147 47.0371 23.3332 47.0371C24.3516 47.0371 25.3283 47.4417 26.0485 48.1618C26.7686
+													48.882 27.1732 49.8587 27.1732 50.8771Z" stroke="#AA2D29" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" style="stroke-dasharray: 24.1275; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line4" d="M25.4663 61.5185C24.2517 62.4802 23.333 62.9834 23.333 62.9834C23.333 62.9834 15.333 58.6015 15.333
+													50.9834C15.333 48.8617 16.1759 46.8268 17.6762 45.3265C19.1764 43.8263 21.2113 42.9834 23.333 42.9834C25.4547 42.9834 27.4896
+													43.8263 28.9899 45.3265C30.4902 46.8268 31.333 48.8617 31.333 50.9834C31.333 52.7654 30.8953 54.3702 30.2246 55.7834" stroke="#AA2D29" stroke-width="1.5" stroke-linecap="square" style="stroke-dasharray: 47.7647; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+                                                    </svg>

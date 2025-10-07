@@ -1,0 +1,10 @@
+<svg width="60" height="81" viewBox="0 0 80 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path class="item-line1" d="M50.3529 62.5455H30.1455L33.3472 53.3604H40.2223" stroke="#AA2D29" stroke-width="1.5" style="stroke-dasharray: 36.8096; stroke-dashoffset: 36.8096;"></path>
+
+                                                        <path class="item-line2" d="M20.0992 53.3588L60.3992 53.3588M20.0992 18.4551L60.3992 18.4551M15.4492 20.7314L15.4492
+													51.0825M65.0492 20.7314V51.0825" stroke="#1E1E1E" stroke-width="1.5" style="stroke-dasharray: 141.302; stroke-dashoffset: 141.302;"></path>
+
+                                                        <circle class="item-circle1" cx="54.6006" cy="23.5" r="1" fill="#1E1E1E" style="opacity: 0;"></circle>
+
+                                                        <circle class="item-circle2" cx="58.6006" cy="23.5" r="1" fill="#1E1E1E" style="opacity: 0;"></circle>
+                                                    </svg>

@@ -1,0 +1,9 @@
+<svg width="60" height="61" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                        <path class="item-line1" d="M17.7812 18.4824H36.5064C38.5436 18.4824 40.195 20.1339 40.195 22.1711V50.7583" stroke="#1E1E1E" stroke-width="1.5" style="stroke-dasharray: 53.1073; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line2" d="M62.6072 18.4824H43.882C41.8448 18.4824 40.1934 20.1339 40.1934 22.1711V50.7583" stroke="#1E1E1E" stroke-width="1.5" style="stroke-dasharray: 53.1073; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line3" d="M40.1934 50.7588V61.5174" stroke="#AA2D29" stroke-width="1.5" stroke-linecap="square" style="stroke-dasharray: 10.7586; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+
+                                                        <path class="item-line4" d="M66.1943 46.276L66.1943 23.8622M14.1943 46.276L14.1943 23.8622M17.7805 50.7588L62.6081 50.7588" stroke="#1E1E1E" stroke-width="1.5" style="stroke-dasharray: 89.6552; stroke-dashoffset: 0; transition: stroke-dashoffset 1s ease-in-out;"></path>
+                                                    </svg>
