@@ -32,10 +32,12 @@
 - Position 속성을 활용하여 일부 콘텐츠는 화면에 고정되고, 일부는 scroll-down에 따라 자연스럽게 이동하는 구조를 구현해 AOS(Animate On Scroll) 스타일의 인터랙션을 완성했습니다.
 
 <br>
+
 ## 🔍 More Information
+
 [Velog - 작업일지](https://velog.io/@juns00/%EC%9E%91%EC%97%85%EA%B8%B0%EB%A1%9D-03.-LX%EA%B8%80%EB%9D%BC%EC%8A%A4%EB%A9%94%EC%9D%B8%ED%8E%98%EC%9D%B4%EC%A7%80)
 
-[Portfolio](...)
+[Portfolio](https://junsoo00.github.io/portfolio/)
 
 
 
